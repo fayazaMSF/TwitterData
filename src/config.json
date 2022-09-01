@@ -1,0 +1,78 @@
+{
+  "hashtags": [
+    {
+      "hashtag": "FuelCrisisLK",
+      "limit": 10
+    },
+    {
+      "hashtag": "SriLankanCrisis",
+      "limit": 10
+    },
+    {
+      "hashtag": "SriLankaProtests",
+      "limit": 10
+    },
+    {
+      "hashtag": "GoGotaHome",
+      "limit": 10
+    },
+    {
+      "hashtag": "SriLankaEconomicCrisis",
+      "limit": 10
+    },
+    {
+      "hashtag": "GoHomeRajapaksas",
+      "limit": 10
+    },
+    {
+      "hashtag": "IMF",
+      "limit": 10
+    },
+    {
+      "hashtag": "SriLanka",
+      "limit": 10
+    },
+    {
+      "hashtag": "SLnews",
+      "limit": 10
+    }
+  ],
+  "users": [
+    {
+      "user": "kanchana_wij",
+      "limit": 10
+    },
+    {
+      "user": "Dailymirror_SL",
+      "limit": 10
+    },
+    {
+      "user": "NewsfirstSL",
+      "limit": 10
+    },
+    {
+      "user": "sajithpremadasa",
+      "limit": 10
+    },
+    {
+      "user": "RW_UNP",
+      "limit": 10
+    },
+    {
+      "user": "anuradisanayake",
+      "limit": 10
+    },
+    {
+      "user": "_dhammikaperera",
+      "limit": 10
+    },
+    {
+      "user": "GotabayaR",
+      "limit": 10
+    },
+    {
+      "user": "AdaDerana_24",
+      "limit": 10
+    }
+  ]
+}
