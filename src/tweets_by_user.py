@@ -8,7 +8,14 @@ for _user in tqdm(config.users):
     user = _user['user']
     limit = _user['limit']
 
-    query = f'from:{user}'
+    # start and end - date format yyyy-mm-dd
+    start = _user['start']
+    end = _user['end']
+
+    if not (start and end):
+        query = f'from:{user} until:{end} since:{start}'
+    else:
+        query = f'from:{user}'
     
     tweets = []
     for tweet in tqdm(sntwitter.TwitterSearchScraper(query).get_items()):
