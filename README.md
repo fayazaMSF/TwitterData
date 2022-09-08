@@ -6,3 +6,5 @@
     $ pip install pandas
     $ pip install tqdm
 	```
+
+> start and end - date format ```yyyy-mm-dd```

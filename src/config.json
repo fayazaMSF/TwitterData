@@ -2,77 +2,113 @@
   "hashtags": [
     {
       "hashtag": "FuelCrisisLK",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "SriLankanCrisis",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "SriLankaProtests",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "GoGotaHome",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "SriLankaEconomicCrisis",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "GoHomeRajapaksas",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "IMF",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "SriLanka",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "hashtag": "SLnews",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     }
   ],
   "users": [
     {
       "user": "kanchana_wij",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "Dailymirror_SL",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "NewsfirstSL",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "sajithpremadasa",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "RW_UNP",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "anuradisanayake",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "_dhammikaperera",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "GotabayaR",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     },
     {
       "user": "AdaDerana_24",
-      "limit": 10
+      "limit": 10,
+      "start": "",
+      "end": ""
     }
   ]
 }
